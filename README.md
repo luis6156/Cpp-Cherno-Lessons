@@ -1,1 +1,1 @@
-# Cpp-Cherno-Lessons
+# C++ Lessons and Talks
